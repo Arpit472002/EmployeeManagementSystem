@@ -6,7 +6,7 @@ Django v3.2+
 SQLite3
 
 Prerequisites
-Downlaod and add the following packages in order to run the project
+Downlaod and add the following packages in order to run the project:
 pip install django
 pip install django-crispy-forms
 pip install Pillow
